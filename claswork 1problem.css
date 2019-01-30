@@ -1,0 +1,26 @@
+
+
+
+
+code {
+    background: gray;
+    color: black;
+    display: block;
+}
+
+}
+
+header {
+
+    position: center;
+    margin: auto;
+}
+
+
+section{
+    position: absolute;
+    right: 600px;
+    display: inline-block;
+
+}
+
